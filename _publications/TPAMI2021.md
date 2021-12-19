@@ -1,7 +1,7 @@
 ---
 title: "Two-Branch Relational Prototypical Network for Weakly Supervised Temporal Action Localization"
 collection: publications
-permalink: /publication/2021/04/28-TPAMI2021
+permalink: /publication/TPAMI2021
 excerpt: ''
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'
 date: 2021/04/28
