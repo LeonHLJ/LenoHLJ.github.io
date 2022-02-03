@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/TIP_MMSD
 excerpt: ''
 venue: 'IEEE Transactions on Image Processing (TIP)'
-date: 2021-12-12
+date: 2022-01-20
 paperurl: ''
-citation: '<b>Linjiang Huang</b>, Liang Wang, Hongsheng Li. &quot;Multi-Modality Self-Distillation for Weakly Supervised Temporal Action Localization&quot;.<i>IEEE Transactions on Image Processing</i> <b>TIP 2021</b>.'
+citation: '<b>Linjiang Huang</b>, Liang Wang, Hongsheng Li. &quot;Multi-Modality Self-Distillation for Weakly Supervised Temporal Action Localization&quot;.<i>IEEE Transactions on Image Processing</i> <b>TIP 2022</b>.'
 ---
 
 ## Abstract
