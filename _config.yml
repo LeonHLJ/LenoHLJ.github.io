@@ -13,10 +13,10 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://LeonHLJ.github.io 
  # local use: 
-# url                      : http://127.0.0.1:4000
-baseurl                  : #linqizhou #the subpath of your site, e.g. "/blog"
+# url                    : http://127.0.0.1:4000
+baseurl                  :
  # local use: 
-dataurl                  : https://LeonHLJ.github.io  #https://media.githubusercontent.com/media/alexzhou907/alexzhou907.github.io/main  
+dataurl                  : https://LeonHLJ.github.io
 # local use:  and turn off exclude images/
 # dataurl                  : http://127.0.0.1:4000
 repository               :
