@@ -17,3 +17,12 @@ redirect_from:
 *  My current research interests include generative AI and embodied AI.
 
 
+<br>
+
+<h1 id="publications"> Publications</h1>
+
+<hr style="width:80%;text-align:left;margin-left:0">
+
+{% for post in site.publications reversed %}
+  {% include archive-single-pub.html %}
+{% endfor %}
