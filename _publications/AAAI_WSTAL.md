@@ -1,6 +1,6 @@
 ---
 title: "Relational Prototypical Network for Weakly Supervised Temporal Action Localization"
-teaser: AAAI_WSTAL
+teaser: AAAI_WSTAL.png
 date: 2020-04-03
 author: <b>Linjiang Huang</b>, Yan Huang, Wanli Ouyang, Liang Wang
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)'
