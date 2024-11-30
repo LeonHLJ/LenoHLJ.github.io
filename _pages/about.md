@@ -15,14 +15,3 @@ redirect_from:
 *  I recieved my Ph.D. Degree from Institute of Automation, Chinese Academy of Sciences (CASIA) in 2020, advised by [Prof. Liang Wang](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/201010/t20101013_2986122.html), and my Bachelor and Master Degree from Huazhong University of Science and Technology (HUST) in 2014 and 2017, respectively. 
 
 *  My current research interests include generative AI and embodied AI.
-
-
-<br>
-
-<h1 id="publications"> Publications</h1>
-
-<hr style="width:80%;text-align:left;margin-left:0">
-
-{% for post in site.publications reversed %}
-  {% include archive-single-pub.html %}
-{% endfor %}
