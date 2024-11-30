@@ -11,9 +11,15 @@ title                    : "Linjiang Huang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://LeonHLJ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LeonHLJ/LeonHLJ.github.io"
+url                      : https://LeonHLJ.github.io 
+ # local use: 
+# url                      : http://127.0.0.1:4000
+baseurl                  : #linqizhou #the subpath of your site, e.g. "/blog"
+ # local use: 
+dataurl                  : https://LeonHLJ.github.io  #https://media.githubusercontent.com/media/alexzhou907/alexzhou907.github.io/main  
+# local use:  and turn off exclude images/
+# dataurl                  : http://127.0.0.1:4000
+repository               :
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -103,13 +109,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -146,6 +152,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # - images
 keep_files:
   - .git
   - .svn
